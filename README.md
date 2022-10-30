@@ -11,3 +11,11 @@ docker run -it --rm -p 8080:8080 cbwa_ca1
 
 To see the image:
 Browse to http://localhost:8080
+
+
+
+References:
+
+https://hub.docker.com/_/alpine 
+
+https://github.com/lipanski/docker-static-website
